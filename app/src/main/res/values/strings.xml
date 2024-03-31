@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="lets_go">Lets Go!!!</string>
+    <string name="krishna">Krishna</string>
+    <string name="submit">Submit</string>
+    <string name="which_country_does_this_flag_represent">Which country does this flag represent ?</string>
+</resources>
