@@ -21,7 +21,7 @@ To get started with Trivia Tank, follow these steps:
 
 **Clone the Repository** <br/>
 
-git clone https://github.com/yourusername/triviatank.git <br/>
+git clone [https://github.com/yourusername/triviatank.git](https://github.com/krish-0323/Trivia_Tank.git) <br/>
 cd triviatank <br/>
 
 Open Android Studio and select Open an existing Android Studio project. Navigate to the cloned directory and open it. <br/>
